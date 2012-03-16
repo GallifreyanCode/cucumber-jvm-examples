@@ -1,6 +1,6 @@
 ### Cucumber-JVM Examples ###
 
-Some examples/research on using [Cucumber](https://github.com/cucumber) in a JVM environment.
+Some examples/research on using [Cucumber](http://cukes.info/) in a JVM environment.
 
 ### Contents ###
 
