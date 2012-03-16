@@ -1,6 +1,6 @@
-### cucumber-jvm-examples ###
+### Cucumber-JVM Examples ###
 
-A list of examples for using Cucumber-JVM
+Some examples/ressearch on using [Cucumber](https://github.com/cucumber) in a JVM environment.
 
 ### Contents ###
 
