@@ -1,0 +1,10 @@
+
+/.idea
+*.settings
+*.iml
+*.project
+*.classpath
+target/
+chromedriver.log
+*.svn
+*.bat
