@@ -13,6 +13,8 @@
 		<spring.version>3.1.1.RELEASE</spring.version>
 		<selenium.java.version>2.19.0</selenium.java.version>
 		<picocontainer.version>3</picocontainer.version>
+		<cdi.api.version>1.1.EDR1.2</cdi.api.version>
+		<weld.se.version>2.0.0.Alpha1</weld.se.version>
 		<hsqldb.version>1.8.0.10</hsqldb.version>
 		<bundle.plugin.version>2.3.6</bundle.plugin.version>
 		<compiler.plugin.version>2.3.2</compiler.plugin.version>

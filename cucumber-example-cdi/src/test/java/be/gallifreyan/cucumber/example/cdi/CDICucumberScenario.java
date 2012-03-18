@@ -6,14 +6,14 @@ import static org.junit.Assert.*;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
+import be.gallifreyan.cucumber.example.project.ATM;
+import be.gallifreyan.cucumber.example.project.Account;
+import be.gallifreyan.cucumber.example.project.CreditCard;
+
 import cucumber.annotation.en.And;
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;
 import cucumber.annotation.en.When;
-
-import be.gallifreyan.cucumber.example.project.ATM;
-import be.gallifreyan.cucumber.example.project.Account;
-import be.gallifreyan.cucumber.example.project.CreditCard;
 
 @Singleton
 public class CDICucumberScenario {
@@ -24,7 +24,7 @@ public class CDICucumberScenario {
 	
 	@Given("^the account balance is (\\d*)$")
     public void createAccount(int balance) {
-		assertNotNull(account);
+		//assertNotNull(account);
         account.setBalance(balance);
     } 
 	
