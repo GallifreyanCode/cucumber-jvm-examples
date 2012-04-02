@@ -7,5 +7,4 @@ Some examples/research on using [Cucumber](http://cukes.info/) in a JVM environm
 * CDI
 * PicoContainer
 * Spring
-* Swing UI
 * Web UI
